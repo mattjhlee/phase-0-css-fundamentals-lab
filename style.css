@@ -3,3 +3,29 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  margin: auto;
+  width: 20%;
+}
+img {
+  width: 900px;
+  margin: auto;
+}
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+figcaption {
+  margin: auto;
+  width: 30%;
+}
+p.featured-property {
+  width: 800px;
+  margin: auto;
+}
+div {
+  float: left;
+  background-color: red;
+  margin: auto;
+  width: 25%;
+}
